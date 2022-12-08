@@ -8,3 +8,9 @@
 for (let i=0; i < 99; i++) {
     consol.log('x =' i);
 }
+
+document.addEventLister('click', ()=> {
+    altrt('Hi, boys!');
+});
+
+```
